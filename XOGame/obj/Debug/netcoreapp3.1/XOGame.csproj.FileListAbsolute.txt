@@ -1,0 +1,17 @@
+C:\Users\eilon\source\repos\XOGame\XOGame\bin\Debug\netcoreapp3.1\XOGame.exe
+C:\Users\eilon\source\repos\XOGame\XOGame\bin\Debug\netcoreapp3.1\XOGame.deps.json
+C:\Users\eilon\source\repos\XOGame\XOGame\bin\Debug\netcoreapp3.1\XOGame.runtimeconfig.json
+C:\Users\eilon\source\repos\XOGame\XOGame\bin\Debug\netcoreapp3.1\XOGame.runtimeconfig.dev.json
+C:\Users\eilon\source\repos\XOGame\XOGame\bin\Debug\netcoreapp3.1\XOGame.dll
+C:\Users\eilon\source\repos\XOGame\XOGame\bin\Debug\netcoreapp3.1\XOGame.pdb
+C:\Users\eilon\source\repos\XOGame\XOGame\obj\Debug\netcoreapp3.1\XOGame.csproj.AssemblyReference.cache
+C:\Users\eilon\source\repos\XOGame\XOGame\obj\Debug\netcoreapp3.1\XOGame.Form1.resources
+C:\Users\eilon\source\repos\XOGame\XOGame\obj\Debug\netcoreapp3.1\XOGame.Properties.Resources.resources
+C:\Users\eilon\source\repos\XOGame\XOGame\obj\Debug\netcoreapp3.1\XOGame.csproj.GenerateResource.cache
+C:\Users\eilon\source\repos\XOGame\XOGame\obj\Debug\netcoreapp3.1\XOGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eilon\source\repos\XOGame\XOGame\obj\Debug\netcoreapp3.1\XOGame.AssemblyInfoInputs.cache
+C:\Users\eilon\source\repos\XOGame\XOGame\obj\Debug\netcoreapp3.1\XOGame.AssemblyInfo.cs
+C:\Users\eilon\source\repos\XOGame\XOGame\obj\Debug\netcoreapp3.1\XOGame.csproj.CoreCompileInputs.cache
+C:\Users\eilon\source\repos\XOGame\XOGame\obj\Debug\netcoreapp3.1\XOGame.dll
+C:\Users\eilon\source\repos\XOGame\XOGame\obj\Debug\netcoreapp3.1\XOGame.pdb
+C:\Users\eilon\source\repos\XOGame\XOGame\obj\Debug\netcoreapp3.1\XOGame.genruntimeconfig.cache
