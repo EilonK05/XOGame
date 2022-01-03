@@ -58,7 +58,7 @@ namespace XOGame
             {
                 button.Image = m_X;
                 
-                if (checkWin())
+                if (CheckWin())
                 {
                     WinForm winForm = new WinForm("שחקן איקס ניצח! כל הכבוד!", Resources.XWin);
                     winForm.ShowDialog();
@@ -68,7 +68,7 @@ namespace XOGame
             {
                 button.Image = m_O;
 
-                if (checkWin())
+                if (CheckWin())
                 {
                     WinForm winForm = new WinForm("שחקן עיגול ניצח! כל הכבוד!", Resources.OWin);
                     winForm.ShowDialog();
@@ -78,7 +78,7 @@ namespace XOGame
             m_isX = !m_isX;
         }
 
-        private bool checkWin()
+        private bool CheckWin()
         {
             string[,] board = FormToMatrix();
             for (int i = 0; i < board.GetLength(0); i++)
