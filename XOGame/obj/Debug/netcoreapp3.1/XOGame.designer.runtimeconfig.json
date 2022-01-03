@@ -6,8 +6,8 @@
       "version": "3.1.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\eilon\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\eilon\\.nuget\\packages"
+      "C:\\Users\\Eilon\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Eilon\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

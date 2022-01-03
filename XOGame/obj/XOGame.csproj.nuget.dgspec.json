@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eilon\\source\\repos\\XOGame\\XOGame\\XOGame.csproj": {}
+    "C:\\Users\\Eilon\\Documents\\Github\\XOGame\\XOGame\\XOGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eilon\\source\\repos\\XOGame\\XOGame\\XOGame.csproj": {
+    "C:\\Users\\Eilon\\Documents\\Github\\XOGame\\XOGame\\XOGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eilon\\source\\repos\\XOGame\\XOGame\\XOGame.csproj",
+        "projectUniqueName": "C:\\Users\\Eilon\\Documents\\Github\\XOGame\\XOGame\\XOGame.csproj",
         "projectName": "XOGame",
-        "projectPath": "C:\\Users\\eilon\\source\\repos\\XOGame\\XOGame\\XOGame.csproj",
-        "packagesPath": "C:\\Users\\eilon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eilon\\source\\repos\\XOGame\\XOGame\\obj\\",
+        "projectPath": "C:\\Users\\Eilon\\Documents\\Github\\XOGame\\XOGame\\XOGame.csproj",
+        "packagesPath": "C:\\Users\\Eilon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eilon\\Documents\\Github\\XOGame\\XOGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\eilon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eilon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
